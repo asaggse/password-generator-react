@@ -32,7 +32,7 @@ h2 {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: var(--primary-color);
-  width: 500px;
+  width: 350x;
   height: auto;
   border-radius: 15px;
   padding: 20px 20px 50px;
@@ -84,13 +84,6 @@ h2 {
   cursor: pointer;
   border-radius: 5px;
 }
-
-.btn:hover {
-  /* background: linear-gradient(145deg, #6b2d9c, #7f36b9);
-  box-shadow: 20px 20px 60px #652b93, -20px -20px 60px #893ac7; */
-}
-
-.btn:active {}
 
 .option {
   display: flex;
